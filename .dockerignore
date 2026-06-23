@@ -1,0 +1,10 @@
+**/.venv
+**/doc-venvy
+**/node_modules
+**/__pycache__
+*.pyc
+.env
+.git
+**/dist
+qdrant_storage*
+backend/ingested.json

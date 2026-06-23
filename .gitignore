@@ -1,0 +1,31 @@
+# --- Secrets (most important line in this file) ---
+.env
+.env.*
+*.key
+*.pem
+
+# --- Python ---
+.venv/
+venv/
+.doc-venvy/
+doc-venvy/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Node / React ---
+node_modules/
+frontend/dist/
+npm-debug.log*
+
+# --- Docker / data ---
+qdrant_storage/
+backend/ingested.json
+*.db
+
+# --- Editor / OS junk ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

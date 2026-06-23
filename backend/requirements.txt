@@ -1,0 +1,14 @@
+google-genai
+qdrant-client
+pypdf
+python-dotenv
+openai
+langgraph
+langchain-openai
+langchain-google-genai
+langchain-ollama
+grandalf
+fastapi
+uvicorn[standard]
+python-multipart
+langfuse
